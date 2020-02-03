@@ -97,7 +97,7 @@ software installed:
 - HashiCorp Vagrant (https://www.vagrantup.com/)
   (NOTE: ensure that version 2.x is installed)
 - mysql-client utility
-
+/**/
 Setup:
 - Ensure you have at least 1.4GB available disk space on your system.
 - Download the zip file and unzip the dbvm folder in a suitable location.
