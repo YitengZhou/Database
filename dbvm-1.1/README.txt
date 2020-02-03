@@ -29,6 +29,7 @@ following steps:
 - In the Terminal, navigate to this location and run setup.sh, e.g.:
 
 cd ~/dbvm
+chmod +x setup.sh
 ./setup.sh
 
 - Confirm that you want to run the script by typing: y
@@ -95,6 +96,7 @@ software installed:
 - Oracle VirtualBox (https://www.virtualbox.org/)
 - HashiCorp Vagrant (https://www.vagrantup.com/)
   (NOTE: ensure that version 2.x is installed)
+- mysql-client utility
 
 Setup:
 - Ensure you have at least 1.4GB available disk space on your system.
@@ -148,4 +150,4 @@ For all VM / DB support out of Unit lab hours, please post on the Course Forum,
 linked in the left menu of the COMSM0016 course site on BlackBoard.
 
 
-DBVM script v1.1 Alan Forsyth & David Bernhard
+DBVM script v1.2 Alan Forsyth & David Bernhard
